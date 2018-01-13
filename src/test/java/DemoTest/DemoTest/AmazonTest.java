@@ -18,6 +18,7 @@ public static WebDriver driver;
 		System.setProperty("webdriver.chrome.driver", "C:/Users/DELL/Desktop/chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://www.amazon.in");
+		System.out.println("testing");
 	}
 	
 	@Test
