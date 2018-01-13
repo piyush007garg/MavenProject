@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DemoTest.DemoTest.AmazonTest" duration-ms="45699" started-at="2018-01-13T09:03:31Z" finished-at="2018-01-13T09:04:17Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45699" started-at="2018-01-13T09:03:31Z" finished-at="2018-01-13T09:04:17Z">
+      <class name="DemoTest.DemoTest.AmazonTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DemoTest.DemoTest.AmazonTest@3796751b]" name="setUp" is-config="true" duration-ms="27780" started-at="2018-01-13T14:33:31Z" finished-at="2018-01-13T14:33:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:DemoTest.DemoTest.AmazonTest@3796751b]" name="searchProduct" duration-ms="17888" started-at="2018-01-13T14:33:59Z" finished-at="2018-01-13T14:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+      </class> <!-- DemoTest.DemoTest.AmazonTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- DemoTest.DemoTest.AmazonTest -->
+</testng-results>
